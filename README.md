@@ -1,1 +1,1 @@
-# 七圣召唤模拟器-Call of Seven(COS)
+# 七圣模拟器-Call of Seven(COS)
